@@ -9,4 +9,4 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - name : print message
-       run : echo "avay 12"
+       run : echo "hello world"
