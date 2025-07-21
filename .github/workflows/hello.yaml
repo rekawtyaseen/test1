@@ -7,6 +7,6 @@ on :
 jobs:
  message:
    runs-on: ubuntu-latest
-   step:
+   steps:
      - name : print message
        run : echo "hello world"
